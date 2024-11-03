@@ -1,6 +1,6 @@
 # Rust Status Server
 
-A lightweight HTTP server written in Rust that provides system information, health checks, and metrics endpoints. Inspired by [podinfo](https://github.com/stefanprodan/podinfo), this server features Nu-shell compatible structured data output and a modern terminal-themed HTML interface and Nu-shell structured data output.
+A lightweight HTTP server written in Rust that provides system information, health checks, and metrics endpoints. Inspired by [podinfo](https://github.com/stefanprodan/podinfo), this server features Nu-shell compatible structured data output and a modern terminal-themed HTML interface.
 
 ## Features
 
@@ -10,7 +10,6 @@ A lightweight HTTP server written in Rust that provides system information, heal
 - 🎨 Terminal-themed HTML output
 - 📋 JSON response support
 - 📝 Nu-shell compatible structured data
-- 📊 CSV export capabilities
 
 ## Quick Start
 ```
